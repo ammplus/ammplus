@@ -1,4 +1,4 @@
-```markdown
+
 # 嘿！我是amm 👋 | 一个用代码写诗的乐天派码农
 
 <div align="center">
@@ -63,5 +63,5 @@ summary>📜 点击查看我的《不严肃人生宣言》</summary>
   br>
   sub>em>↑ 此刻正在debug人生的我 ↑</em></sub>
 </div>
-```
+
 
