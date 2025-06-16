@@ -2,7 +2,7 @@
 # 嘿！我是amm 👋 | 一个用代码写诗的乐天派码农
 
 <div align="center">
-  img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="300" alt="码农猫">
+  img src="https://blog.amm.plus/" width="300" alt="码农猫">
 </div>
 
 ## 🎭 我的多重宇宙身份
@@ -27,6 +27,7 @@ print(f"人生版本号：v{random.randint(25,30)}.4.1")
 
 速戳邮箱：📧 [**ammlife@outlook.com**](mailto:ammlife@outlook.com)  
 接头暗号："`git push --force`是勇者的浪漫！"
+秘密基地："[https://blog.amm.plus](https://blog.amm.plus/)"
 
 ## 🌈 合作邀请函
 diff
