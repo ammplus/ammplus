@@ -1,8 +1,9 @@
 
 # 嘿！我是amm 👋 | 一个用代码写诗的乐天派码农
 
+
 <div align="center">
-  <a href="https://blog.amm.plus/">
+  <a href="https://blog.amm.plus/">Amazing Mini Maker(迷你创客工坊)</a>
 </div>
 
 ## 🎭 我的多重宇宙身份
