@@ -2,7 +2,7 @@
 # 嘿！我是amm 👋 | 一个用代码写诗的乐天派码农
 
 <div align="center">
-  img src="https://blog.amm.plus/" width="300" alt="码农猫">
+  <a href="https://blog.amm.plus/">
 </div>
 
 ## 🎭 我的多重宇宙身份
